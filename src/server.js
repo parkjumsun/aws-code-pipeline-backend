@@ -7,6 +7,7 @@ import cors from 'cors';
 const app = express();
 const port = 80;
 
+
 // Enable CORS for all requests
 app.use(cors());
 
